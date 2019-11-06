@@ -1,0 +1,53 @@
+body {
+	padding: 40px;
+}
+
+body,
+p {
+	font-size: 24px;
+}
+
+.row {
+	display: flex;
+}
+
+.column {
+	padding: 20px;
+}
+
+.numberButton {
+	width: 100px;
+	height: 50px;
+}
+
+.delete {
+	width: 100px;
+	height: 50px;
+}
+
+.inputs {
+	width: 380px;
+	height: 100px;
+	background-color: lightgray;
+	margin-left: 20px;
+	display: flex;
+	justify-content: space-between;
+}
+
+input {
+	width: 80px;
+	height: 50px;
+	margin: auto;
+	
+}
+
+h1{
+	margin: auto;
+}
+
+.title{
+	display: flex;
+	width: 380px;
+	margin-left: 20px;
+	justify-content: space-between;
+}
